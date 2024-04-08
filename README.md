@@ -6,4 +6,4 @@ Gradio for webapp (use streamlit for better customization)
 STEPS TO RUN
 1) Create a virtual environment using python -m venv venvname
 2) Install requirements using pip install -r requirements.txt
-3) Run the app using gradio chatbot.py
+3) Run the app using gradio groqchatbot.py
