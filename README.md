@@ -1,3 +1,5 @@
+NOTE : This is a personal mini project
+
 Straightforward chatbot webapplication that has a memory.
 Uses GROQ-API and Mistral8x7B (can switch llm).
 Memory using ConversationBufferWindowMemory.
